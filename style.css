@@ -11,6 +11,7 @@ h1{
 section{
     display: flex;
     margin-left: 5%;
+    margin-bottom: 100px;
 }
 .half-width{
     width 40%;
@@ -38,6 +39,7 @@ section{
     font-size: 150%;
     color: white;
     border-radius: 5%;
+    
 }
 .top-banner{
     background-image: url(corner-right-upper-shape-top-117494.png);
@@ -45,4 +47,17 @@ section{
 }
 .milau{
     margin-top: 0%;
+}
+#bees{
+    font-size: 700%;
+    color:coral;
+    display: flex;
+}
+.bees1{
+    margin-left: 0%;
+}
+.bees{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
