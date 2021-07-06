@@ -1,0 +1,48 @@
+body {
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 55px;
+}
+.Header-Color{
+    color: orange;
+}
+section{
+    display: flex;
+    margin-left: 5%;
+}
+.half-width{
+    width 40%;
+    padding-left: 1cm;
+}
+.half-width img{
+    width 25%;
+}
+#headd{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: bold;
+    color: rgb(255, 0, 85);
+    margin-top: 85px;
+}
+.bruh{
+    color:indianred;
+    font-size: 65px;
+    font-weight: bolder;
+}
+.link-button{
+    text-decoration: none;
+    background-image: radial-gradient(red,rgb(219, 81, 81));
+    padding: 7px 20px;
+    font-size: 150%;
+    color: white;
+    border-radius: 5%;
+}
+.top-banner{
+    background-image: url(corner-right-upper-shape-top-117494.png);
+    background-repeat: none;
+}
+.milau{
+    margin-top: 0%;
+}
