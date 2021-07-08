@@ -8,13 +8,13 @@ h1{
 .Header-Color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-left: 5%;
     margin-bottom: 100px;
 }
 .half-width{
-    width 40%;
+    width 50%;
     padding-left: 1cm;
 }
 .half-width img{
@@ -48,7 +48,7 @@ section{
 .milau{
     margin-top: 0%;
 }
-#bees{
+.beess{
     font-size: 700%;
     color:coral;
     display: flex;
@@ -60,4 +60,38 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.animaldot{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 15px 5px red;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 4%;
+    
+    
+}
+.oo{
+    padding-left: 5%;
+    color: salmon;
+}
+.more{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#borderr1{border-radius: 2%;
+    border-left: 7px solid ;
+    border-image: linear-gradient(tomato,red) ;
+    border-image-slice: 1 ;
+}
+#borderr2{
+    border-radius: 2%;
+    border-left: 7px solid ;
+    border-image: linear-gradient(rgb(179, 255, 0),rgb(38, 255, 31)) ;
+    border-image-slice: 1 ;
+}
+footer p {
+    text-align: center;
 }
